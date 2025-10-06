@@ -4,6 +4,9 @@
 *.swp
 *.un~
 
+# sqlite db files
+*.sqlite
+
 # Vim session files
 Session.vim
 
